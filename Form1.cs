@@ -15,6 +15,7 @@ namespace Facultad.EzePractica
         public Form1()
         {
             InitializeComponent();
+            Console.WriteLine("buen dia");
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)
